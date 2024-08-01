@@ -1,5 +1,6 @@
-#![me 2024july](assets/202407.jpg)
+
 # IT Major
+![me 2024july](assets/202407.jpg)
 ## Introduction to Programming Languages
 
 ### Education
