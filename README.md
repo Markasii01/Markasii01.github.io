@@ -1,5 +1,5 @@
 
-<img src="asset/202407.jpg" data-canonical-src="asset/202407.jpg" width="200" height="400" />
+<img src="asset/202407.jpg" data-canonical-src="asset/202407.jpg" width="200" height="300" />
 # IT Major
 
 ## Introduction to Programming Languages
