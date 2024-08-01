@@ -1,4 +1,4 @@
-![me 2024july](assets/me 2024july.jpg)
+![me 2024july](assets/me_2024july.jpg)
 # IT Major
 ## Introduction to Programming Languages
 
