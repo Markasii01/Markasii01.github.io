@@ -1,6 +1,6 @@
-
-# IT Major
 ![me 2024july](asset/202407.jpg)
+# IT Major
+
 ## Introduction to Programming Languages
 
 ### Education
