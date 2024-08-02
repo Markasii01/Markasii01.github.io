@@ -1,11 +1,14 @@
 
 <img src="asset/202407.jpg" data-canonical-src="asset/202407.jpg" width="200" height="350" />
 # IT Major
+## About Me
+I am a Undergraduate student in Applied computer technology. Proven ability to transform client ideas into beautiful, functional design solutions. 
+i thrive in Teamwork and enjoy handling projects that require a lot from me.
 
 ## Introduction to Programming Languages
 
 ### Education
-Diploma, Ongoing degree
+Certificates,Diploma, Ongoing degree
 
 ### Work Experience
 Online Intern Assistance
