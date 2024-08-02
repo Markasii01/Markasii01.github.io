@@ -18,7 +18,7 @@ Online Intern Assistance
 <img src="asset/Grading.jpg" data-canonical-src="asset/202407.jpg" width="200" height="300" />
 [Grading system](https://www.programiz.com/online-compiler/665zhaMHtowqv)
 
-<img src="asset/Familytree.jpg" data-canonical-src="asset/202407.jpg" width="200" height="250" />
+<img src="asset/Familytree.png" data-canonical-src="asset/202407.jpg" width="200" height="250" />
 [Family Tree](asset/Familytree.swinb)
 
 <img src="asset/Area.jpg" data-canonical-src="asset/202407.jpg" width="200" height="250" />
