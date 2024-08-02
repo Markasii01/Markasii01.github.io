@@ -15,7 +15,7 @@ Online Intern Assistance
 <img src="asset/login.jpg" data-canonical-src="asset/202407.jpg" width="200" height="250" />  
 [Login file](asset/login/login.html)
 ### 2
-<img src="asset/Grading.jpg" data-canonical-src="asset/202407.jpg" width="200" height="250" />
+<img src="asset/Grading.jpg" data-canonical-src="asset/202407.jpg" width="200" height="300" />
 [Grading system](https://www.programiz.com/online-compiler/665zhaMHtowqv)
 ### 3
 [Family Tree](asset/Familytree.swinb)
