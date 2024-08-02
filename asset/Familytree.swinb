@@ -1,0 +1,104 @@
+<div class="notebook">
+
+<div class="nb-cell markdown" name="md1">
+This notebook uses the student profile
+</div>
+
+<div class="nb-cell program" name="p1">
+
+Copy code
+% Define relationships
+% Format: parent(Parent, Child).
+
+% Generation 1 (Great Grandparents)
+parent(muli, josiah).
+parent(kalekye, josiah).
+
+parent(muli, henry).
+parent(muli, henry).
+
+% Generation 2 (Grandparents)
+parent(josiah, mutua).
+parent(josiah, michael).
+
+parent(mary, mutua).
+parent(mary, michael).
+
+parent(john, elizabeth).
+parent(john, josephine).
+
+parent(mary, elizabeth).
+parent(mary, josephine).
+% Generation 3 (Parents)
+parent(michael, mark).
+parent(michael, ruth).
+
+parent(elizabeth, mark).
+parent(elizabeth, ruth).
+
+parent(sarah, david).
+parent(sarah, shay).
+
+parent(mark, david).
+parent(mark, shay).
+
+
+
+% Generation 4 (Children)
+parent(mark, isabella).
+parent(mark, markjn).
+
+parent(shay, isabella).
+parent(shay, markjn).
+
+
+% Rules
+% Define father relationship
+father(F, C) :- parent(F, C), male(F).
+
+% Define mother relationship
+mother(M, C) :- parent(M, C), female(M).
+
+% Define siblings relationship
+siblings(X, Y) :- parent(P, X), parent(P, Y), X \= Y.
+
+% Facts about gender
+male(muli).
+male(josiah).
+male(henry).
+male(mutua).
+male(michael).
+male(john).
+male(mark).
+male(david).
+male(markjn).
+
+
+female(kalekye).
+female(mary).
+female(elizabeth).
+female(josephine).
+female(ruth).
+female(sarah).
+female(shay).
+female(isabella).
+
+
+% Example queries:
+% mother(X, mark).
+% siblings(mark, ruth).
+% father(X, ruth).
+</div>
+
+<div class="nb-cell query" name="q1">
+
+</div>
+
+<div class="nb-cell program" data-background="true" data-singleline="true" name="p2">
+% Student exercise profile
+:- set_prolog_flag(occurs_check, error).		% disallow cyclic terms
+:- set_prolog_stack(global, limit(8 000 000)).  % limit term space (8Mb)
+:- set_prolog_stack(local,  limit(2 000 000)).  % limit environment space
+</div>
+
+</div>
